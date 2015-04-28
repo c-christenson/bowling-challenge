@@ -72,6 +72,22 @@ button {
   margin-left: 10px;
 }
 
+.click {
+  padding: 10px 15px;
+  background: black;
+  color: white;
+  border-radius: 4px;
+  border: solid 1px;  
+  position: fixed;
+  bottom: 200px;
+  right: 100px;
+}
+
+.click:hover {
+  background: white;
+  color: black;
+}
+
 .button {
   padding: 10px 15px;
   background: black;

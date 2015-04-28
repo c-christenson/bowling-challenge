@@ -19,6 +19,5 @@ A bowling game consists of 10 frames in which the player tries to knock down the
 ###To Do:
 
 - Fix certain style features:
-    - remove "pinsHit" from input field
     - set restrictions on input field (currently any value can be inputted)
-    - resize input field
+
