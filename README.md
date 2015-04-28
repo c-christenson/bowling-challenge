@@ -18,5 +18,5 @@ A bowling game consists of 10 frames in which the player tries to knock down the
 
 ###To Do:
 
-  - Need to limit number of pins to hit on second bowl
+  - Style feature: Need to limit number of pins to hit on second bowl
 
