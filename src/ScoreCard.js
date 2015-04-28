@@ -77,5 +77,3 @@ ScoreCard.prototype.tallyTotalScore = function(){
   return this.score;
 };
 
-
-
