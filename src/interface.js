@@ -21,11 +21,9 @@ var score = 0;
     $('#frame8').text(scorecard.frames[8].score);
     $('#frame9').text(scorecard.frames[9].score);
     $('#frame10').text(scorecard.frames[10].score);
+
   $('#score').text(scorecard.score);
   });
-
-
-
 
 
 
